@@ -21,8 +21,8 @@ It also uses and builds on the following techniques from previous lessons:
 * Observable state LiveData variables to trigger navigation
 
 ## Screenshots
-![Screenshot1](screenshots/1.jpg)
-![Screenshot2](screenshots/2.jpg)
-![Screenshot3](screenshots/3.jpg)
-![Screenshot4](screenshots/4.jpg)
+![Screenshot1](screenshots/1.jpeg)
+![Screenshot2](screenshots/2.jpeg)
+![Screenshot3](screenshots/3.jpeg)
+![Screenshot4](screenshots/4.jpeg)
 
